@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
 
 body {
-    background-color: rgb(224, 157, 157);
+    color: #fff;
+    background: url:('http://www.gutowicz.pl/wp-content/uploads/2017/04/polisolokaty.jpg')
+    background-size: cover;
 }
 
 a   {
