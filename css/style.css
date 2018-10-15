@@ -31,8 +31,12 @@ div {
 }
 .kotak1 {
 	background-color: blue;
+	width: 450px;
+	height: 850px;
 }
 .kotak2 {
 	background-color: pink;
+	width: 550px;
+	height: 950px;
 }
 
