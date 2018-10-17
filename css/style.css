@@ -78,32 +78,32 @@ div {
 }
 /* layout */
 	 
-.header{
+.header {
 background-color: #FF1493;
 width:100%;
 height:50px;
 text-align: center;
 }
 
-.sidebar1{
+.sidebar1 {
 float:left;
 width:180px;
 background-color: #FFE4C4;
 }
 
-.main{
+.main {
 float:center;
 width:70%;
 background-color: #6495ED;
 }
 
-.sidebar2{
+.sidebar2 {
 float:right;
 width:200px;
 background-color: #7FFF00;
 }
 
-.footer{
+.footer {
 clear:both;
 height: 50px;
 width: 100%;
